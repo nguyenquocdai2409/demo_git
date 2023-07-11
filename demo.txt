@@ -6,3 +6,11 @@
 + đẩy code từ local lên remote : 3 bước
 - git add -A : chọn
 - git commit -m "tao ra trang home" : xác nhận và ghi kèm chú thích
+- git push -u origin master : đẩy lần đầu 
+
+- git push : lần 2 trở đi 
+
+
++ setyp account
+git config user.name "nguyenquocdai2409"
+git config user.email "nguyenquocdai2409@gmail.com"
