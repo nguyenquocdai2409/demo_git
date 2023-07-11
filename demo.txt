@@ -1,0 +1,8 @@
+- git init : khởi tạo init
+
+- git remote add origin https://github.com/nguyenquocdai2409/demo_git.git 
+-> liên kết repo local và repo remote
+
++ đẩy code từ local lên remote : 3 bước
+- git add -A : chọn
+- git commit -m "tao ra trang home" : xác nhận và ghi kèm chú thích
